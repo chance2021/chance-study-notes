@@ -6,9 +6,13 @@ If you have any question, you can send me the email at chance.chen21@gmail.com. 
 
 Below are the table of the content.
 
+**Ansible**
+
 **Blue Brain Nexus**
 - Keycloak Integration
 - Base URL (Relative URL) change
+
+**ElasticSearch**
 
 **Gitlab**
 - Keycloak Integration
@@ -20,9 +24,20 @@ Below are the table of the content.
 - Version upgrate
 - Certificates renewal
 
+**Kong/Konga**
+
+**Kibana**
+
 **Minio**
 
+**Prometheus**
+- AlertManager
+
 **SuperSet**
+
+**Singularity**
+
+**Slurm**
 
 **Vault**
 
